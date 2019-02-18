@@ -256,17 +256,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 745173034}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd25b1fd5cc30e843b30f72b3b731e56, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c6b3dac25fda417d968220bc45807b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Unit:
-    m_HealthPoint: 0
-    m_PhysicalAttack: 0
-    m_MagicAttack: 0
-    m_Defense: 0
-    m_Resistance: 0
-    m_CriticalDamage: 0
-    m_CriticalChance: 0
+  m_TurnState: 0
 --- !u!1 &928247679
 GameObject:
   m_ObjectHideFlags: 0
